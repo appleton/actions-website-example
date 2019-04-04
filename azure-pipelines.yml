@@ -20,4 +20,4 @@ steps:
 
 - script: npm test
 - script: npm run lint
-- script: npm run format
+- script: npm run format-check
